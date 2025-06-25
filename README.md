@@ -51,58 +51,10 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍎 [FoodFacts](https://github.com/Xeen76/foodfacts)
-> Progressive Web App for food label analysis with AI-powered nutritional insights
-
-**Tech Stack:** `React` `Vite` `Flask` `Google Gemini LLM` `Tailwind CSS`
-
-- 🔍 Real-time food label analysis using Google Gemini LLM
-- 📱 Responsive PWA with image upload functionality
-- 🛒 Blinkit integration for seamless shopping experience
-- 💡 Personalized health recommendations and daily intake tracking
-
-### 🖥️ [JXC-62 Processor Simulator](https://github.com/Xeen76/jxc62-simulator)
-> Interactive web-based processor simulator for assembly-level instruction visualization
-
-**Tech Stack:** `Python` `Flask` `JavaScript` `HTML/CSS` `Tailwind CSS`
-
-- ⚡ Real-time processor operation simulation
-- 🎯 Step-by-step execution with data flow visualization
-- 📝 Interactive code editor with syntax highlighting
-- 🔄 Dynamic register and memory state tracking
-
-### 💬 [TCP-Based Chat Application](https://github.com/Xeen76/tcp-chat)
-> Real-time multi-client chat system with robust networking
-
-**Tech Stack:** `C++` `TCP/IP` `Socket Programming` `Docker`
-
-- 🌐 Multi-client concurrent connection support
-- 🔒 Robust error handling and clean shutdown protocol
-- ⏰ Timestamp-based message logging
-- 🐳 Dockerized deployment for easy setup
-
-### 🛍️ [Local Artisan Store](https://github.com/Xeen76/artisan-store)
-> Full-featured e-commerce platform for local artisans
-
-**Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
-
-- 🛒 Complete shopping cart and order management
-- 🔐 Secure user authentication and payment processing
-- 📱 Responsive design for all devices
-- 📊 Inventory management and order tracking
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeen76&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xeen76&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
