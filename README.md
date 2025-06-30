@@ -19,7 +19,6 @@
 
 - 🎓 **Computer Science Student** at Jaypee Institute of Information Technology, Noida
 - 💻 Passionate about **Full Stack Development** and **System Programming**
-- 🌱 Currently exploring **Machine Learning** and **Advanced Web Technologies**
 - 🔭 Working on innovative projects that solve real-world problems
 - 📍 Based in **Noida, India**
 
@@ -68,7 +67,6 @@
 
 ## 📈 Current Focus
 
-- 🤖 Exploring **Machine Learning** and **AI Integration**
 - 🔧 Building **Scalable Web Applications**
 - 📚 Strengthening **Data Structures & Algorithms**
 - 🌐 Learning **Cloud Technologies** and **DevOps**
